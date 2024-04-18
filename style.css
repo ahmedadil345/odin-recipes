@@ -1,0 +1,71 @@
+.index-body {
+    text-align: center;
+    background-color: #CDD193;
+}
+
+.pancake-body {
+    text-align: center;
+    background-color: #B37F4D;
+}
+
+.turkey-body {
+    text-align: center;
+    background-color: #DBC6B3;
+}
+
+.reuben-body {
+    text-align: center;
+    background-color: #634331;
+    color: white
+}
+
+img {
+    width: auto;
+    height: 300px;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+}
+
+.list-header {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 2%;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.list-header.ingredients{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;    
+    font-weight: bold;
+    font-size: 25px;
+    padding-right: 3%;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 0%;
+    font-size: 20px;
+}
+
+ol {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: #478C5C;
+
+}
+
